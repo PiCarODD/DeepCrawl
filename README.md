@@ -1,4 +1,4 @@
-# Web Application Crawler
+# DeepCrawl - Web Application Crawler
 
 A Python-based tool for discovering endpoints and functions in web applications, with real-time progress reporting and security-focused classification.
 
