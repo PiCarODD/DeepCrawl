@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Web Application Security Crawler
-Author: DeepSeek
+
 """
 
 import argparse
